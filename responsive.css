@@ -1,0 +1,16 @@
+body{
+    display: flex;
+    flex-direction: column;
+}
+#navbar{
+    position: static;
+    width: 100%;
+    border: none;
+}
+#navbar ul{
+    height: 30vh;
+}
+#main-doc{
+    margin:auto ;
+    width: 80%;
+}
